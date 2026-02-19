@@ -1,1 +1,25 @@
-{\n  "name": "טופס הרשמה",\n  "short_name": "הרשמה",\n  "description": "טופס הרשמה",\n  "start_url": "./",\n  "scope": "./",\n  "display": "standalone",\n  "orientation": "portrait-primary",\n  "background_color": "#ffffff",\n  "theme_color": "#0f172a",\n  "icons": [\n    {\n      "src": "icon.png",\n      "sizes": "512x512",\n      "type": "image/png",\n      "purpose": "any"\n    },\n    {\n      "src": "icon.png",\n      "sizes": "512x512",\n      "type": "image/png",\n      "purpose": "maskable"\n    }\n  ]\n}
+{
+  "name": "טופס הרשמה",
+  "short_name": "הרשמה",
+  "description": "טופס הרשמה",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon.png?v=2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png?v=2",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
