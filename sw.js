@@ -1,5 +1,5 @@
 // Service Worker for PWA offline support
-const CACHE_NAME = 'pwa-redirect-v1';
+const CACHE_NAME = 'pwa-redirect-v2';
 const urlsToCache = [
   './',
   './index.html',
